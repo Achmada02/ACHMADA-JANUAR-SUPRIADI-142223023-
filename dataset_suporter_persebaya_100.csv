@@ -1,0 +1,101 @@
+ID_Suporter,Nama,Jenis_Kelamin,Umur,Kota_Asal,Pekerjaan,Lama_Menjadi_Bonek,Frekuensi_Nonton,Transportasi,Pengeluaran_Tiket,Pengeluaran_Merchandise,Keanggotaan_Komunitas,Media_Informasi,Kepuasan_Pertandingan,Loyalitas
+BNK001,"Balidin Dongoran, S.T.",Laki-laki,36,Sidoarjo,Guru,1,6,Motor,177036,178393,Tidak,Instagram,7,Rendah
+BNK002,Darmana Mandala,Laki-laki,16,Lamongan,Guru,4,5,Kereta,144055,314951,Ya,X,10,Rendah
+BNK003,"Ciaobella Wastuti, M.Pd",Perempuan,34,Pasuruan,Karyawan,13,11,Mobil,276166,447833,Ya,Facebook,7,Sedang
+BNK004,Lantar Anggraini,Perempuan,19,Surabaya,Wiraswasta,7,5,Motor,132920,238208,Tidak,Instagram,8,Rendah
+BNK005,Among Iswahyudi,Laki-laki,33,Surabaya,Mahasiswa,14,12,Bus,371100,352698,Ya,TikTok,7,Tinggi
+BNK006,Daruna Mayasari,Laki-laki,19,Pasuruan,Karyawan,5,15,Mobil,486420,383281,Tidak,Instagram,8,Tinggi
+BNK007,Cut Putri Napitupulu,Perempuan,35,Mojokerto,Guru,9,8,Mobil,232080,135669,Tidak,Instagram,9,Sedang
+BNK008,"Sadina Palastri, S.Farm",Laki-laki,23,Lamongan,Guru,13,4,Bus,120672,260325,Ya,X,8,Rendah
+BNK009,Ikin Rahmawati,Perempuan,28,Jombang,Guru,3,17,Kereta,498763,123206,Tidak,TikTok,7,Tinggi
+BNK010,Yessi Ardianto,Laki-laki,20,Gresik,Mahasiswa,8,19,Kereta,503291,446247,Ya,X,6,Sangat Tinggi
+BNK011,"KH. Capa Anggraini, S.Psi",Laki-laki,28,Sidoarjo,Guru,8,22,Bus,740718,181813,Tidak,Instagram,10,Sangat Tinggi
+BNK012,Eva Pratama,Laki-laki,25,Sidoarjo,Karyawan,3,16,Mobil,518928,51701,Ya,Facebook,8,Tinggi
+BNK013,"Tgk. Baktiono Iswahyudi, S.Sos",Perempuan,40,Kediri,Pelajar,9,8,Motor,269512,50299,Tidak,Facebook,10,Sedang
+BNK014,Gatot Situmorang,Perempuan,23,Sidoarjo,Guru,4,4,Mobil,137180,91291,Ya,X,6,Rendah
+BNK015,Tgk. Yani Gunawan,Laki-laki,33,Lamongan,Karyawan,5,8,Kereta,269160,368029,Tidak,X,9,Sedang
+BNK016,"Michelle Nasyiah, S.IP",Perempuan,32,Surabaya,Guru,2,17,Mobil,494037,167806,Ya,Instagram,6,Tinggi
+BNK017,Cindy Puspasari,Laki-laki,18,Lamongan,Karyawan,4,4,Kereta,104416,66469,Ya,TikTok,8,Rendah
+BNK018,Yance Utami,Perempuan,39,Lamongan,Pelajar,10,21,Motor,687624,177400,Tidak,Facebook,9,Sangat Tinggi
+BNK019,dr. Ratih Nababan,Laki-laki,29,Jombang,Karyawan,8,16,Motor,414192,403036,Ya,TikTok,6,Tinggi
+BNK020,"Betania Gunawan, S.H.",Perempuan,22,Kediri,Mahasiswa,8,20,Motor,545920,271187,Tidak,Instagram,7,Sangat Tinggi
+BNK021,"T. Bahuwirya Pradipta, S.IP",Laki-laki,17,Jombang,Wiraswasta,14,20,Kereta,504820,98896,Ya,X,7,Sangat Tinggi
+BNK022,Indah Hasanah,Perempuan,17,Mojokerto,Wiraswasta,7,8,Kereta,200280,254693,Ya,TikTok,8,Sedang
+BNK023,"Rafid Utama, S.E.",Laki-laki,25,Pasuruan,Pelajar,1,9,Motor,310401,435738,Tidak,TikTok,10,Sedang
+BNK024,Kamila Pranowo,Laki-laki,17,Lamongan,Wiraswasta,2,19,Motor,532836,85924,Ya,Instagram,10,Sangat Tinggi
+BNK025,"Emas Zulaika, S.Pt",Perempuan,35,Mojokerto,Mahasiswa,7,5,Bus,172810,346341,Ya,Facebook,10,Rendah
+BNK026,Hj. Ella Nasyidah,Laki-laki,28,Surabaya,Wiraswasta,11,7,Motor,209405,289717,Ya,TikTok,8,Sedang
+BNK027,"Hesti Marpaung, M.M.",Perempuan,32,Mojokerto,Mahasiswa,3,11,Kereta,337898,86066,Tidak,Instagram,7,Sedang
+BNK028,Humaira Uyainah,Laki-laki,37,Sidoarjo,Guru,5,20,Mobil,533940,120407,Tidak,Facebook,8,Sangat Tinggi
+BNK029,"Puti Prasetya, S.Psi",Perempuan,35,Mojokerto,Pelajar,12,9,Motor,275553,156743,Tidak,Facebook,8,Sedang
+BNK030,"Cut Ghaliyati Firmansyah, S.Psi",Laki-laki,17,Kediri,Guru,6,3,Kereta,81429,384030,Ya,Instagram,8,Rendah
+BNK031,Hasna Haryanto,Laki-laki,18,Jombang,Mahasiswa,9,7,Motor,179130,487568,Tidak,Facebook,8,Sedang
+BNK032,Vino Purnawati,Perempuan,17,Jombang,Guru,4,14,Mobil,407232,399665,Ya,TikTok,6,Tinggi
+BNK033,"Iriana Prabowo, M.Kom.",Perempuan,21,Lamongan,Karyawan,1,16,Mobil,447008,436171,Ya,X,8,Tinggi
+BNK034,Syahrini Haryanti,Perempuan,17,Mojokerto,Mahasiswa,4,18,Mobil,508842,478126,Ya,TikTok,9,Sangat Tinggi
+BNK035,Eman Mandala,Perempuan,28,Jombang,Guru,5,13,Bus,339781,455445,Ya,Instagram,8,Tinggi
+BNK036,Panca Purwanti,Perempuan,24,Pasuruan,Karyawan,10,8,Kereta,234792,70057,Ya,X,6,Sedang
+BNK037,T. Pangeran Padmasari,Laki-laki,34,Lamongan,Karyawan,5,9,Kereta,231543,421607,Ya,Facebook,9,Sedang
+BNK038,Restu Wacana,Perempuan,35,Jombang,Karyawan,11,13,Kereta,351533,427358,Tidak,TikTok,8,Tinggi
+BNK039,Gawati Mandala,Perempuan,22,Jombang,Guru,11,16,Motor,499376,405109,Tidak,Facebook,7,Tinggi
+BNK040,drg. Bakijan Hardiansyah,Perempuan,22,Kediri,Wiraswasta,13,16,Mobil,552032,368065,Tidak,TikTok,8,Tinggi
+BNK041,"Puti Eva Utami, S.E.",Perempuan,37,Sidoarjo,Mahasiswa,5,5,Bus,167225,398050,Ya,TikTok,10,Rendah
+BNK042,"Ir. Indra Riyanti, S.Pt",Laki-laki,20,Kediri,Wiraswasta,1,3,Mobil,87033,299108,Tidak,X,10,Rendah
+BNK043,Kezia Riyanti,Perempuan,28,Lamongan,Mahasiswa,3,10,Kereta,250900,443721,Ya,TikTok,6,Sedang
+BNK044,Paris Ramadan,Perempuan,19,Kediri,Guru,3,17,Kereta,554404,400002,Tidak,TikTok,10,Tinggi
+BNK045,Dt. Maman Latupono,Perempuan,39,Kediri,Mahasiswa,8,18,Bus,526428,444147,Tidak,Instagram,7,Sangat Tinggi
+BNK046,"Timbul Nasyiah, S.T.",Laki-laki,38,Gresik,Mahasiswa,4,12,Mobil,353412,226080,Tidak,TikTok,8,Tinggi
+BNK047,"Ir. Ganep Kusumo, S.Pd",Perempuan,38,Jombang,Pelajar,2,9,Mobil,286173,263699,Tidak,X,8,Sedang
+BNK048,Endah Hasanah,Perempuan,40,Kediri,Pelajar,12,21,Bus,531720,499174,Tidak,X,10,Sangat Tinggi
+BNK049,Xanana Saptono,Laki-laki,29,Kediri,Mahasiswa,12,20,Bus,678940,469361,Tidak,X,10,Sangat Tinggi
+BNK050,KH. Cemani Mayasari,Perempuan,16,Gresik,Guru,6,15,Motor,474360,429679,Tidak,Instagram,7,Tinggi
+BNK051,Tedi Utami,Perempuan,18,Jombang,Karyawan,3,16,Mobil,521024,145278,Tidak,Facebook,6,Tinggi
+BNK052,Zaenab Uyainah,Perempuan,26,Surabaya,Guru,5,15,Motor,478590,182262,Tidak,TikTok,6,Tinggi
+BNK053,Drs. Dalimin Mangunsong,Laki-laki,36,Lamongan,Pelajar,13,5,Mobil,128295,445435,Ya,TikTok,6,Rendah
+BNK054,Vanesa Marpaung,Perempuan,31,Gresik,Guru,10,6,Motor,171426,293811,Ya,Facebook,8,Rendah
+BNK055,KH. Virman Nuraini,Perempuan,19,Lamongan,Pelajar,1,21,Mobil,632331,351883,Ya,Facebook,9,Sangat Tinggi
+BNK056,Liman Sinaga,Laki-laki,37,Pasuruan,Guru,13,22,Kereta,593626,467452,Tidak,Instagram,10,Sangat Tinggi
+BNK057,Anita Kusumo,Laki-laki,32,Jombang,Karyawan,1,13,Kereta,414466,481138,Ya,X,9,Tinggi
+BNK058,Yance Samosir,Perempuan,21,Kediri,Wiraswasta,11,19,Bus,559075,372915,Tidak,TikTok,10,Sangat Tinggi
+BNK059,Asmianto Permadi,Perempuan,18,Pasuruan,Pelajar,15,11,Kereta,356235,177854,Tidak,TikTok,9,Sedang
+BNK060,Puti Chelsea Laksita,Perempuan,31,Surabaya,Guru,6,9,Mobil,263088,228435,Ya,TikTok,8,Sedang
+BNK061,"Puti Vanya Nasyidah, S.E.I",Perempuan,39,Kediri,Wiraswasta,8,16,Motor,545536,447496,Ya,Facebook,7,Tinggi
+BNK062,Maryanto Kusmawati,Perempuan,23,Kediri,Guru,12,15,Bus,434790,210540,Tidak,Facebook,10,Tinggi
+BNK063,R.M. Eman Nuraini,Laki-laki,27,Lamongan,Karyawan,5,17,Motor,510391,181807,Ya,TikTok,7,Tinggi
+BNK064,"Ir. Lintang Prabowo, M.Pd",Perempuan,22,Sidoarjo,Mahasiswa,5,18,Bus,623862,448567,Ya,Facebook,10,Sangat Tinggi
+BNK065,"H. Muhammad Pangestu, S.Pd",Laki-laki,21,Surabaya,Guru,1,12,Bus,405012,116365,Ya,X,8,Tinggi
+BNK066,Salsabila Yulianti,Perempuan,19,Pasuruan,Mahasiswa,10,3,Motor,88974,296099,Tidak,X,9,Rendah
+BNK067,Maida Maryati,Laki-laki,19,Gresik,Mahasiswa,7,5,Bus,165280,88840,Ya,TikTok,10,Rendah
+BNK068,Devi Prayoga,Laki-laki,19,Jombang,Wiraswasta,13,20,Kereta,636360,367885,Tidak,X,10,Sangat Tinggi
+BNK069,Atma Sirait,Laki-laki,25,Lamongan,Karyawan,10,21,Motor,545706,369622,Ya,TikTok,6,Sangat Tinggi
+BNK070,Lanjar Puspasari,Perempuan,21,Kediri,Karyawan,2,20,Motor,551280,51402,Ya,Facebook,9,Sangat Tinggi
+BNK071,Lanjar Prasetya,Perempuan,38,Lamongan,Wiraswasta,12,12,Motor,389256,87318,Ya,TikTok,7,Tinggi
+BNK072,Bagus Usamah,Perempuan,24,Kediri,Pelajar,2,7,Kereta,181839,136991,Tidak,X,8,Sedang
+BNK073,Dartono Hidayat,Laki-laki,24,Jombang,Karyawan,9,19,Bus,628710,279511,Ya,Instagram,6,Sangat Tinggi
+BNK074,Satya Sitompul,Laki-laki,23,Gresik,Wiraswasta,10,21,Kereta,532119,450954,Tidak,TikTok,8,Sangat Tinggi
+BNK075,Kamidin Prakasa,Perempuan,34,Jombang,Karyawan,11,16,Bus,528896,97837,Ya,TikTok,9,Tinggi
+BNK076,Salsabila Laksita,Laki-laki,26,Kediri,Pelajar,12,16,Bus,529872,201109,Tidak,Facebook,9,Tinggi
+BNK077,Kayun Mustofa,Perempuan,19,Jombang,Pelajar,14,15,Mobil,501465,482499,Tidak,X,6,Tinggi
+BNK078,"Queen Permata, M.Kom.",Laki-laki,36,Mojokerto,Wiraswasta,13,17,Kereta,439365,156723,Ya,Instagram,8,Tinggi
+BNK079,Purwanto Kusmawati,Perempuan,36,Surabaya,Guru,13,22,Kereta,636240,422130,Ya,TikTok,7,Sangat Tinggi
+BNK080,"dr. Dadap Kuswoyo, S.IP",Perempuan,19,Jombang,Wiraswasta,2,17,Kereta,467874,311292,Ya,X,8,Tinggi
+BNK081,"Irfan Thamrin, S.Farm",Laki-laki,33,Sidoarjo,Karyawan,7,7,Kereta,196854,364246,Tidak,Facebook,10,Sedang
+BNK082,Nadia Habibi,Perempuan,16,Gresik,Wiraswasta,12,12,Kereta,358692,489078,Tidak,Facebook,10,Tinggi
+BNK083,"Martani Yuliarti, S.IP",Laki-laki,33,Jombang,Mahasiswa,7,20,Kereta,649200,218704,Ya,Facebook,7,Sangat Tinggi
+BNK084,Hadi Sirait,Perempuan,39,Surabaya,Mahasiswa,12,18,Bus,562428,252416,Ya,X,7,Sangat Tinggi
+BNK085,"R. Drajat Nababan, S.Kom",Perempuan,19,Gresik,Pelajar,15,19,Kereta,617234,58046,Tidak,Facebook,7,Sangat Tinggi
+BNK086,drg. Cahyono Anggraini,Perempuan,35,Pasuruan,Wiraswasta,11,15,Motor,394725,496570,Ya,TikTok,8,Tinggi
+BNK087,Estiawan Hariyah,Laki-laki,36,Kediri,Mahasiswa,4,12,Bus,317760,277526,Ya,Instagram,6,Tinggi
+BNK088,Taufan Hutagalung,Laki-laki,26,Lamongan,Guru,5,4,Kereta,123492,246524,Ya,TikTok,9,Rendah
+BNK089,Yani Pudjiastuti,Perempuan,21,Gresik,Mahasiswa,10,5,Kereta,156335,374906,Tidak,X,7,Rendah
+BNK090,Asirwanda Yulianti,Laki-laki,24,Sidoarjo,Wiraswasta,15,3,Bus,97866,200801,Tidak,X,10,Rendah
+BNK091,Dt. Bakiman Prakasa,Perempuan,38,Sidoarjo,Mahasiswa,8,11,Kereta,329439,154447,Tidak,Facebook,9,Sedang
+BNK092,Hasim Laksita,Laki-laki,38,Kediri,Karyawan,1,12,Mobil,377808,193906,Tidak,TikTok,6,Tinggi
+BNK093,Gabriella Wacana,Laki-laki,36,Surabaya,Karyawan,10,9,Kereta,261954,405343,Ya,Facebook,7,Sedang
+BNK094,Catur Wibowo,Laki-laki,39,Lamongan,Mahasiswa,2,7,Bus,208845,221294,Tidak,TikTok,9,Sedang
+BNK095,Harsaya Saptono,Laki-laki,24,Kediri,Pelajar,13,18,Mobil,537030,441412,Ya,X,8,Sangat Tinggi
+BNK096,"KH. Jaeman Suwarno, S.Farm",Laki-laki,33,Kediri,Karyawan,2,14,Bus,440496,57297,Tidak,Facebook,8,Tinggi
+BNK097,"Uchita Puspita, M.Kom.",Perempuan,19,Lamongan,Pelajar,8,10,Kereta,254100,374820,Tidak,X,10,Sedang
+BNK098,Dadap Sihombing,Laki-laki,19,Sidoarjo,Mahasiswa,1,7,Mobil,179263,209574,Tidak,X,9,Sedang
+BNK099,Asmianto Prastuti,Perempuan,27,Sidoarjo,Wiraswasta,7,20,Kereta,692440,439162,Tidak,Instagram,7,Sangat Tinggi
+BNK100,"Puput Halim, S.Psi",Perempuan,38,Sidoarjo,Karyawan,4,14,Bus,451696,283148,Ya,X,7,Tinggi
